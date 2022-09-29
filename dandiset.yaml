@@ -17,9 +17,9 @@ assetsSummary:
   measurementTechnique:
   - name: current clamp technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 443256096
-  numberOfFiles: 4
-  numberOfSubjects: 3
+  numberOfBytes: 8348061868
+  numberOfFiles: 13
+  numberOfSubjects: 4
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_9606
@@ -28,9 +28,9 @@ assetsSummary:
   variableMeasured:
   - CurrentClampStimulusSeries
   - CurrentClampSeries
-citation: Tóth, Martin (2022) Temporal disparity of action potentials triggered in
-  axon initial segments and distal axons in the neocortex (Version draft) [Data set].
-  DANDI archive. https://dandiarchive.org/dandiset/000341/draft
+citation: Tóth, Martin; Rózsa, Márton (2022) Temporal disparity of action potentials
+  triggered in axon initial segments and distal axons in the neocortex (Version draft)
+  [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000341/draft
 contributor:
 - affiliation: []
   email: toh.martin9502@gmail.com
@@ -38,6 +38,12 @@ contributor:
   name: Tóth, Martin
   roleName:
   - dcite:ContactPerson
+  schemaKey: Person
+- affiliation: []
+  email: 'marton.rozsa@alleninstitute.org '
+  includeInCitation: true
+  name: Rózsa, Márton
+  roleName: []
   schemaKey: Person
 dateCreated: '2022-09-29T09:00:51.120962+00:00'
 description: Patch-clamp recordings of Layer 1 interneurons in the human and rodent

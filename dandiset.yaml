@@ -17,9 +17,9 @@ assetsSummary:
   measurementTechnique:
   - name: current clamp technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 17521650724
-  numberOfFiles: 27
-  numberOfSubjects: 7
+  numberOfBytes: 31602584580
+  numberOfFiles: 39
+  numberOfSubjects: 8
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_9606
@@ -60,7 +60,7 @@ keywords:
 - in vitro
 - in vivo
 license:
-- spdx:CC0-1.0
+- spdx:CC-BY-4.0
 manifestLocation:
 - https://api.dandiarchive.org/api/dandisets/000341/versions/draft/assets/
 name: Temporal disparity of action potentials triggered in axon initial segments and

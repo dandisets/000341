@@ -17,9 +17,9 @@ assetsSummary:
   measurementTechnique:
   - name: current clamp technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 31602584580
-  numberOfFiles: 39
-  numberOfSubjects: 8
+  numberOfBytes: 42834277856
+  numberOfFiles: 49
+  numberOfSubjects: 11
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_9606
@@ -53,12 +53,14 @@ ethicsApproval: []
 id: DANDI:000341/draft
 identifier: DANDI:000341
 keywords:
-- Retroaxonal action potentials
 - Layer 1 interneurons
 - human
 - rodent
 - in vitro
 - in vivo
+- Retroaxonal firing
+- Persistent firing
+- Retoaxonal action potentials
 license:
 - spdx:CC-BY-4.0
 manifestLocation:

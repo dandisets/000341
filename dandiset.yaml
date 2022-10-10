@@ -17,13 +17,16 @@ assetsSummary:
   measurementTechnique:
   - name: current clamp technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 143129212440
-  numberOfFiles: 304
-  numberOfSubjects: 45
+  numberOfBytes: 151878310220
+  numberOfFiles: 308
+  numberOfSubjects: 48
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_9606
     name: Homo sapiens - Human
+    schemaKey: SpeciesType
+  - identifier: http://purl.obolibrary.org/obo/NCBITaxon_10090
+    name: Mus musculus - House mouse
     schemaKey: SpeciesType
   variableMeasured:
   - CurrentClampStimulusSeries
@@ -34,6 +37,7 @@ citation: Tóth, Martin; Rózsa, Márton (2022) Temporal disparity of action pot
 contributor:
 - affiliation: []
   email: toh.martin9502@gmail.com
+  identifier: 0000-0001-5973-0401
   includeInCitation: true
   name: Tóth, Martin
   roleName:

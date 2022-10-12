@@ -17,9 +17,9 @@ assetsSummary:
   measurementTechnique:
   - name: current clamp technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 97907838200
-  numberOfFiles: 217
-  numberOfSubjects: 32
+  numberOfBytes: 72196152088
+  numberOfFiles: 132
+  numberOfSubjects: 25
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_9606
@@ -29,8 +29,8 @@ assetsSummary:
     name: Mus musculus - House mouse
     schemaKey: SpeciesType
   variableMeasured:
-  - CurrentClampStimulusSeries
   - CurrentClampSeries
+  - CurrentClampStimulusSeries
 citation: Tóth, Martin; Rózsa, Márton (2022) Temporal disparity of action potentials
   triggered in axon initial segments and distal axons in the neocortex (Version draft)
   [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000341/draft

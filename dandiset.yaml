@@ -17,9 +17,9 @@ assetsSummary:
   measurementTechnique:
   - name: current clamp technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 419482103186
-  numberOfFiles: 554
-  numberOfSubjects: 168
+  numberOfBytes: 430193903176
+  numberOfFiles: 558
+  numberOfSubjects: 169
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_9606

@@ -6,6 +6,13 @@ about: []
 access:
 - schemaKey: AccessRequirements
   status: dandi:OpenAccess
+acknowledgement: Eötvös Loránd Research Network grant ELKH-SZTE Agykérgi Neuronhálózatok
+  Kutatócsoport Hungarian National Office for Research and Technology grant GINOP
+  2.3.2-15-2016-00018  Hungarian National Office for Research and Technology grant
+  Élvonal KKP 133807 Hungarian National Office for Research and Technology grant ÚNKP-20-5
+  - SZTE-681 National Research, Development and Innovation Office grant OTKA K128863
+  Hungarian Academy of Sciences, János Bolyai Research Scholarship National Brain
+  Research Program, Hungary National Institutes of Health awards U01MH114812 and UM1MH130981
 assetsSummary:
   approach:
   - name: electrophysiological approach
@@ -17,9 +24,9 @@ assetsSummary:
   measurementTechnique:
   - name: current clamp technique
     schemaKey: MeasurementTechniqueType
-  numberOfBytes: 692972087372
-  numberOfFiles: 739
-  numberOfSubjects: 283
+  numberOfBytes: 702087396276
+  numberOfFiles: 765
+  numberOfSubjects: 293
   schemaKey: AssetsSummary
   species:
   - identifier: http://purl.obolibrary.org/obo/NCBITaxon_9606
@@ -36,7 +43,7 @@ assetsSummary:
   - CurrentClampSeries
 citation: Tóth, Martin; Rózsa, Márton (2023) Temporal disparity of action potentials
   triggered in axon initial segments and distal axons in the neocortex (Version draft)
-  [Data set]. DANDI archive. https://doi.org/10.80507/dandi.123456/0.123456.1234
+  [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000341/draft
 contributor:
 - affiliation: []
   email: toh.martin9502@gmail.com
@@ -53,11 +60,9 @@ contributor:
   roleName: []
   schemaKey: Person
 dateCreated: '2022-09-29T09:00:51.120962+00:00'
-datePublished: '2023-02-14T10:42:18.022306+00:00'
 description: Patch-clamp recordings of Layer 1 interneurons in the human and rodent
   neocortex. Data comes from Gabor Tamas Lab (ELKH-SZTE Research Group for Cortical
   Microcircuits; University of Szeged, Hungary).
-doi: 10.80507/dandi.123456/0.123456.1234
 ethicsApproval: []
 id: DANDI:000341/draft
 identifier: DANDI:000341
@@ -78,18 +83,6 @@ name: Temporal disparity of action potentials triggered in axon initial segments
   distal axons in the neocortex
 protocol:
 - https://www.biorxiv.org/content/10.1101/2022.08.09.503303v1
-publishedBy:
-  endDate: '2023-02-14T10:42:18.022306+00:00'
-  id: urn:uuid:0f89b62e-0499-482f-a4bc-3095837d3c1a
-  name: DANDI publish
-  schemaKey: PublishActivity
-  startDate: '2023-02-14T10:42:18.022306+00:00'
-  wasAssociatedWith:
-  - id: urn:uuid:5d4f53c7-312f-4460-9af4-25019fd958e0
-    identifier: RRID:SCR_017571
-    name: DANDI API
-    schemaKey: Software
-    version: 0.1.0
 relatedResource: []
 repository: https://dandiarchive.org
 schemaKey: Dandiset
